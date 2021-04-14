@@ -5,9 +5,9 @@
 ### Skills
 
 * Python
-* Javascript, Reactjs
-* C#
-* Java
+* Javascript, ReactJS
+* C#, Xamarin
+* Java, JavaFX
 * Bash
 * HTML + CSS/SCSS
 * TSQL
