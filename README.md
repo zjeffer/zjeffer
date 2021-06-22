@@ -6,7 +6,7 @@
 
 * Python
 * Javascript, ReactJS
-* C#, Xamarin
+* C#, ASP.NET, Xamarin
 * Java, JavaFX
 * Bash
 * HTML + CSS/SCSS
