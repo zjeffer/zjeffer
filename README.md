@@ -10,7 +10,7 @@
 * Java, JavaFX
 * Bash
 * HTML + CSS/SCSS
-* TSQL
+* SQL
 * LaTeX
 
 
