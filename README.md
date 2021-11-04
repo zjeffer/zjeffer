@@ -4,8 +4,8 @@
 
 ### Skills
 
-* Python
-* Javascript, ReactJS
+* Python, Tensorflow, numpy, pandas, sklearn etc
+* Javascript, ReactJS, VueJS
 * C#, ASP.NET, Xamarin
 * Java, JavaFX
 * Bash
