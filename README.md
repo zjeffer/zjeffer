@@ -16,6 +16,6 @@
 
 - 🌱 I’m currently learning C and C++
 - 💬 Ask me about Linux & FOSS!
-- 📫 How to reach me: vanhouttetuur@gmail.com
+- 📫 How to reach me: `vanhouttetuur <at> gmail <dot> com`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjeffer&layout=compact&theme=nord&langs_count=8&hide=html,tex)](https://github.com/anuraghazra/github-readme-stats)
