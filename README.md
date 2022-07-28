@@ -5,12 +5,12 @@
 ### Skills
 
 * Python, Tensorflow, PyTorch
-* Javascript, ReactJS, VueJS
-* C & C++
+* C & C++, Qt
 * C#, ASP.NET, Xamarin
+* Javascript, ReactJS, VueJS
 * Java, JavaFX
 * Bash
-* HTML + CSS/SCSS
+* HTML + (S)CSS
 * SQL
 * LaTeX
 
