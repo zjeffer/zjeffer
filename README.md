@@ -5,8 +5,8 @@
 
 ### Skills
 
-* Python, Tensorflow, PyTorch
 * C & C++, Qt
+* Python, Tensorflow, PyTorch
 * C#, ASP.NET, Xamarin
 * Javascript, ReactJS, VueJS
 * Java, JavaFX
