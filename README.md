@@ -16,7 +16,6 @@
 * LaTeX
 
 
-- 🌱 I’m currently learning C and C++
 - 💬 Ask me about Linux & FOSS!
 - 📫 How to reach me: `vanhouttetuur <at> gmail <dot> com`
 
