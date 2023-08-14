@@ -1,5 +1,12 @@
 ## zjeffer 👋
 
+Hi, I'm zjeffer, a software engineer from Belgium who likes to spend his free time working on open-source projects, like:
+
+* [Notes](https://github.com/nuttyartist/notes/)
+* [Waybar](https://github.com/Alexays/Waybar)
+* [Hyprland](https://github.com/hyprwm/Hyprland)
+* [Jellyfin Media Player](https://github.com/jellyfin/jellyfin-media-player)
+* ...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjeffer&count_private=true&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -17,6 +24,7 @@
 
 
 - 💬 Ask me about Linux & FOSS!
+- 📖 Studied AI Engineering at Howest, Kortrijk.
 - 📫 How to reach me: `vanhouttetuur <at> gmail <dot> com`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjeffer&layout=compact&theme=nord&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats)
