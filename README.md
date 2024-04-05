@@ -7,11 +7,12 @@ Hi, I'm zjeffer, a software engineer from Belgium who likes to spend his free ti
 ### Skills
 
 * C & C++, Qt
-* Python, Tensorflow, PyTorch
+* Python, Tensorflow, PyTorch, PyTest
 * C#, ASP.NET, Xamarin
 * Javascript, ReactJS, VueJS
 * Java, JavaFX
-* Bash
+* Bash, general linux stuff
+* Buildroot
 * HTML + (S)CSS
 * SQL
 * LaTeX
