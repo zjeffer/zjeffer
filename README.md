@@ -8,7 +8,7 @@ Hi, I'm zjeffer, a software engineer from Belgium who likes to spend his free ti
 * Rust
 * Python, Tensorflow, PyTorch, PyTest
 * C#, ASP.NET, Xamarin
-* Javascript, ReactJS, VueJS
+* Javascript, TypeScript, Svelte5
 * Java, JavaFX
 * Bash, general linux stuff
 * Buildroot
